@@ -1,0 +1,13 @@
+{
+  "data": {
+    "misc": {
+      "ping_usage": "Checks bot's response speed."
+    },
+    "owner": {
+      "eval_usage": "Executes code and returns the result."
+    },
+    "general": {
+      "menu_usage": "Displays the list of commands."
+    }
+  }
+}
