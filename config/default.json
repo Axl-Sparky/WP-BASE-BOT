@@ -1,7 +1,7 @@
 {
   "PLATFORM": "KOYEB",
   "SESSION": false,
-  "MONGODB_URI": "",
+  "MONGODB_URI": "mongodb+srv://abin68137:hSCRGqfm7oiGqFNV@cluster0.akaws.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   "PREFIX": ".",
   "STICKER_DATA": ",Axl",
   "WORK_TYPE": "private",
