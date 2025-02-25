@@ -1,0 +1,43 @@
+{
+  "name": "textron",
+  "version": "",
+  "description": "A open source powerful, multi-purpose WhatsApp bot powered by @whiskeysocket/baileys and Nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start . --attach --name textron",
+    "stop": "pm2 stop . --attach --name textron"
+  },
+  "author": "KichuExe",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "acrcloud": "^1.4.0",
+    "config": "^3.3.12",
+    "fluent-ffmpeg": "^2.1.3",
+    "file-type": "^16.5.4",
+    "fs": "^0.0.1-security",
+    "human-readable": "^0.2.1",
+    "imgur": "^2.4.2",
+    "mongoose": "^8.7.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0",
+    "node-webpmux": "^3.2.0",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pino": "^9.4.0",
+    "pm2": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KichuExe/Textron.git"
+  },
+  "keywords": [
+    "nodejs",
+    "project",
+    "keywords"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
